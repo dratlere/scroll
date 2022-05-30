@@ -69,7 +69,7 @@ Developer and Technigo alumni.
     LinkedIn
     
         <button className="scrollToTop" onClick={scrollToTop}>
-          Scroll top top
+          Scroll to top
         </button>
       </div>
     </>
